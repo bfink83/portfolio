@@ -1,7 +1,7 @@
 # SleepTime App
 
 A simple web application
-similar to sleepyti.me but
+similar to [sleepyti.me](https://sleepyti.me/) but
 limited to suggesting "wake up" 
 times based on calculating sleep cycles.
 
@@ -12,3 +12,5 @@ and a good night's sleep consists of
 sleep cycle, you will feel groggy 
 even if you've completed several 
 cycles prior to waking up.
+
+The SleepTime App is made using basic HTML, CSS, and JavaScript
