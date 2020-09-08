@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: #001f3f;
+    color: #7FDBFF;
+}
+div {
+    border: 1px solid white;
+    margin: 20px;
+    display: block;
+}
+.output{
+    border: 1px solid white;
+    margin: 20px;
+    display: none;
+}
